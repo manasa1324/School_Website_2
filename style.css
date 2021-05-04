@@ -1,0 +1,63 @@
+body
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: 14px;
+    color: darkblue;
+    background-color: cyan;
+}
+
+marquee
+{
+    background-color: dodgerblue;
+    font-size: 20px;
+}
+.details
+{
+    font-size: 15px;
+}
+
+.travel_mainDiv img
+{
+    width: 50%;
+    height: 300px;
+}
+
+.text-capitalize
+{
+    text-transform: capitalize;
+}
+
+.h4, h4
+{
+    font-size: 18px;
+}
+
+.h4, .h5, .h6, h4, h5, h6
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6
+{
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.pride_of_honour_award, .AWSDC
+{
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.row
+{
+    display: table;
+}
